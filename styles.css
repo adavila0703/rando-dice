@@ -1,0 +1,41 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 10px;
+  font-family: 'Tahoma', cursive;
+  text-shadow: 2px 0 #00e0fd;
+  font-size: 8rem;
+  color: #00f7f7;
+}
+
+p {
+  font-size: 2rem;
+  color: #00f7f7;
+  font-family: 'Tahoma', cursive;
+}
+
+img {
+  width: 50%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #00f870;
+  text-align: center;
+  font-family: 'Tahoma', cursive;
+
+}
